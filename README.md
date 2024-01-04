@@ -12,20 +12,17 @@ The repository contains the following default folders:
 
 The compiled output files (.class files) are generated in the `bin` folder by default.
 
-### Cloning the Repository
+# Getting Started
+  ## Clone this repository to your local machine.
+    git clone "https://github.com/Somgester/Snakooo.git"
+ 
+  ## Using the App
 
-To clone this repository, follow these steps:
+    Follow these steps to play the game:
 
-1. Open Terminal, Mac Terminal, or PowerShell.
-2. Use the command: `git clone "https://github.com/Somgester/Snakooo.git"`.
-
-### How to Use
-
-Follow these steps to play the game:
-
-1. Open the `test` folder.
-2. Run the SnakeGame.jar file.
-3. Enjoy playing the game!
+    1. Open the `test` folder.
+    2. Run the SnakeGame.jar file.
+    3. Enjoy playing the game!
 
 Have fun and enjoy the Snake Game!
 
